@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=MarcosBrun0&label=Profile%20Visits&color=blue&style=for-the-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=MarcosBrun0.MarcosBrun0)
+
 github pages: [Portfólio](https://marcosbrun0.github.io/)
 <!--
 **MarcosBrun0/MarcosBrun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
