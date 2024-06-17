@@ -6,18 +6,32 @@
 
 
 <details>
-  <summary> Most Used Languages </summary>
+  <summary> Linguagens Mais Usadas </summary>
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbrun0&layout=compact&theme=dark">
 
 </details>
 
 
-- 🎓 Computer Science Student At UENF.
-- 💼 Working in Robotics Extension Project.
-- 🌱 I'm learning Data Science.
-- 💬 Ask me about Electronics
-- 📫 How to find me: mbrunocampos20@gmail.com
-- 🌐 <a href=MarcosBrun0.github.io>Website</a>
+# Olá! Eu sou Marcos Bruno 👋
+
+🎓 **Estudante de Ciência da Computação na UENF** | 💻 **Entusiasta de Robótica e Data Science**
+
+## Sobre Mim
+Sou apaixonado por programação e tecnologia, atualmente focado em projetos de robótica e aprendendo ciência de dados.
+
+- 🦾 Projeto de Extensão de Ensino de robótica(UENF)
+- ⚡ Tec. em Eletrônica
+- 🧠 Aprendendo Data Science
+- 💬 Pergunte-me sobre Python
+
+
+## Projetos Destacados
+- [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Algoritmos famosos feitos para minha faculdade de CC.
+- [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Exercícios do Bootcamp de Python.
+- [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuitos e códigos para projetos com Arduino.
+
+## Conecte-se Comigo
+[LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href=MarcosBrun0.github.io>Website</a>
 
 
 <!--
