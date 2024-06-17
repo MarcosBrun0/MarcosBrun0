@@ -1,11 +1,23 @@
-### Hi there 👋
+
 ![](https://komarev.com/ghpvc/?username=MarcosBrun0&label=Profile%20Visits&color=blue&style=for-the-badge)
 ![](https://visitor-badge.glitch.me/badge?page_id=MarcosBrun0.MarcosBrun0)
 
 
 
 
-![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbrun0&layout=compact&theme=dark)
+<details>
+  <summary> Most Used Languages </summary>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbrun0&layout=compact&theme=dark">
+
+</details>
+
+
+- 🎓 Computer Science Student At UENF.
+- 💼 Working in Robotics Extension Project.
+- 🌱 I'm learning Data Science.
+- 💬 Ask me about Electronics
+- 📫 How to find me: mbrunocampos20@gmail.com
+- 🌐 <a href=MarcosBrun0.github.io>Website</a>
 
 
 <!--
