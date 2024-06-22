@@ -25,6 +25,16 @@ Sou apaixonado por programação e tecnologia, atualmente focado em projetos de 
 - 💬 Pergunte-me sobre Python
 
 
+<!--
+## Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+-->
 ## Projetos Destacados
 - [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Algoritmos famosos feitos para minha faculdade de CC.
 - [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Exercícios do Bootcamp de Python.
