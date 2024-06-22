@@ -41,7 +41,7 @@ Sou apaixonado por programação e tecnologia, atualmente focado em projetos de 
 - [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuitos e códigos para projetos com Arduino.
 
 ## Conecte-se Comigo
-[LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href=MarcosBrun0.github.io>Website</a>
+[LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href="https://marcosbrun0.github.io/">Website</a>
 
 
 <!--
