@@ -14,14 +14,14 @@
 
 # Olá! Eu sou Marcos Bruno 👋
 
-🎓 **Estudante de Ciência da Computação na UENF** | 💻 **Entusiasta de Robótica e Data Science**
+🎓 **Estudante de Ciência da Computação na UENF** | 💻 **Entusiasta de Robótica**
 
 ## Sobre Mim
-Sou apaixonado por programação e tecnologia, atualmente focado em projetos de robótica e aprendendo ciência de dados.
+Sou apaixonado por programação e tecnologia
 
 - 🦾 Projeto de Extensão de Ensino de robótica(UENF)
 - ⚡ Tec. em Eletrônica
-- 🧠 Aprendendo Data Science
+- 🧠 Aprendendo Dev. de Software 
 - 💬 Pergunte-me sobre Python
 
 
