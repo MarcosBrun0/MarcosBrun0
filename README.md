@@ -5,11 +5,6 @@
 
 
 
-<details>
-  <summary> Linguagens Mais Usadas </summary>
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbrun0&layout=compact&theme=dark">
-
-</details>
 
 
 # Olá! Eu sou Marcos Bruno 👋
