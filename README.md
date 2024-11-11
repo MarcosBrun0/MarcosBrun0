@@ -5,20 +5,16 @@
 
 
 
+# Hi there! I am Marcos Bruno 👋
+**🎓 Computer Science Student at UENF | 💻 Robotics Enthusiast**
 
+## About Me
+I'm passionate about programming and technology
 
-# Olá! Eu sou Marcos Bruno 👋
-
-🎓 **Estudante de Ciência da Computação na UENF** | 💻 **Entusiasta de Robótica**
-
-## Sobre Mim
-Sou apaixonado por programação e tecnologia
-
-- 🦾 Projeto de Extensão de Ensino de robótica(UENF)
-- ⚡ Tec. em Eletrônica
-- 🧠 Aprendendo Dev. de Software 
-- 💬 Pergunte-me sobre Python
-
+- 🦾 Robotics Teaching Extension Project (UENF)
+- ⚡ Electronics Technician
+- 🧠 Learning Software Development
+- 💬 Ask me about Python
 
 <!--
 ## Tecnologias e Ferramentas
@@ -30,13 +26,14 @@ Sou apaixonado por programação e tecnologia
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 -->
-## Projetos Destacados
-- [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Algoritmos famosos feitos para minha faculdade de CC.
-- [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Exercícios do Bootcamp de Python.
-- [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuitos e códigos para projetos com Arduino.
+## Featured Projects
+- [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Famous algorithms created for my Computer Science studies.
+- [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Python Bootcamp exercises.
+- [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuits and code for Arduino projects.
 
-## Conecte-se Comigo
+## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href="https://marcosbrun0.github.io/">Website</a>
+
 
 
 <!--
