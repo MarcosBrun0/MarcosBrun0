@@ -13,7 +13,7 @@ I'm passionate about programming and technology
 
 - 🦾 Robotics Teaching Extension Project (UENF)
 - ⚡ Electronics Technician
-- 🧠 Learning Software Development
+- 🧠 Learning Data Science 
 - 💬 Ask me about Python
 
 <!--
