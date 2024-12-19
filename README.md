@@ -27,9 +27,9 @@ I'm passionate about programming and technology
 
 -->
 ## Featured Projects
-- [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Famous algorithms created for my Computer Science studies.
+- [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Data Structs and Sorting Algotimns for my Computer Science studies.
 - [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Python Bootcamp exercises.
-- [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuits and code for Arduino projects.
+- [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuits and code for Arduino projects(Under Construction).
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href="https://marcosbrun0.github.io/">Website</a>
