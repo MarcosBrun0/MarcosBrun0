@@ -5,11 +5,10 @@
 
 
 
-# Hi there! I am Marcos Bruno 👋
+# Hi there! 
 **🎓 Computer Science Student at UENF | 💻 Robotics Enthusiast**
 
 ## About Me
-I'm passionate about programming and technology
 
 - 🦾 Robotics Teaching Extension Project (UENF)
 - ⚡ Electronics Technician
@@ -30,6 +29,13 @@ I'm passionate about programming and technology
 - [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Data Structs and Sorting Algotimns for my Computer Science studies.
 - [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Python Bootcamp exercises.
 - [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuits and code for Arduino projects(Under Construction).
+
+### 🚀 Ferramentas
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href="https://marcosbrun0.github.io/">Website</a>
