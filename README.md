@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=MarcosBrun0&label=Profile%20Visits&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=MarcosBrun0&label=Profile%20Visits&color=blue&style=flat)
 ![](https://visitor-badge.glitch.me/badge?page_id=MarcosBrun0.MarcosBrun0)
 
 
