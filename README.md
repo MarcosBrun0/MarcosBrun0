@@ -1,6 +1,6 @@
 
-![](https://komarev.com/ghpvc/?username=MarcosBrun0&label=Profile%20Visits&color=blue&style=flat)
-![](https://visitor-badge.glitch.me/badge?page_id=MarcosBrun0.MarcosBrun0)
+![](https://komarev.com/ghpvc/?username=MarcosBrun0&style=flat)
+
 
 
 
@@ -33,7 +33,7 @@
 ### 🚀 Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
