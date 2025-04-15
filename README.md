@@ -12,7 +12,7 @@
 
 - 🦾 Robotics Teaching Extension Project (UENF)
 - ⚡ Electronics Technician
-- 🧠 Learning Data Science 
+- 🧠 Learning Software Engineering
 - 💬 Ask me about Python
 
 <!--
