@@ -6,7 +6,7 @@
 
 
 # Hi there! 
-**🎓 Computer Science Student at UENF | 💻 Robotics Enthusiast**
+**🎓 Computer Science Student at UENF | 💻 Data Science Enthusiast**
 
 ## About Me
 
@@ -24,11 +24,11 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
--->
 ## Featured Projects
 - [**C-Algorithms**](https://github.com/MarcosBrun0/C-Algorithms): Data Structs and Sorting Algotimns for my Computer Science studies.
 - [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Python Bootcamp exercises.
-- [**Arduino**](https://github.com/MarcosBrun0/Arduino): Circuits and code for Arduino projects(Under Construction).
+
+-->
 
 ### 🚀 Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
