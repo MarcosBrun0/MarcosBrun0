@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=MarcosBrun0&style=flat)
+
 
 
 
