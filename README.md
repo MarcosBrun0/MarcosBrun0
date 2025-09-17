@@ -38,7 +38,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com) | <a href="https://marcosbrun0.github.io/">Website</a>
+[LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com)
 
 
 
