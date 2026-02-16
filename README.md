@@ -5,12 +5,12 @@
 
 
 
-# Hi there! 
-**🎓 Computer Science Student at UENF | 💻 Data Science Enthusiast**
+# Welcome to my GitHub
+**🌳Whoever loves discipline loves knowledge**
 
 ## About Me
 
-- 🦾 Robotics Teaching Extension Project (UENF)
+- 📊 Computer Science (UENF)
 - ⚡ Electronics Technician
 - 🧠 Learning Software Engineering
 - 💬 Ask me about Python
@@ -30,7 +30,7 @@
 
 -->
 
-### 🚀 Ferramentas
+### 🚀 Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=white)
