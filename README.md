@@ -5,15 +5,14 @@
 
 
 
-# Welcome to my GitHub
-**🌳Whoever loves discipline loves knowledge**
+# Welcome
+**Whoever loves discipline loves knowledge**
 
 ## About Me
 
-- 📊 Computer Science (UENF)
-- ⚡ Electronics Technician
-- 🧠 Learning Software Engineering
-- 💬 Ask me about Python
+-  Computer Science (UENF)
+-  Electronics Technician
+-  Learning Software Engineering
 
 <!--
 ## Tecnologias e Ferramentas
@@ -29,6 +28,8 @@
 - [**Python-Studies**](https://github.com/MarcosBrun0/Python-Studies): Python Bootcamp exercises.
 
 -->
+![](profile-3d-contrib/profile-night-view.svg)
+
 
 ### 🚀 Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,8 +38,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/MarcosBrun03) | [Email](mailto:mbrunocampos20@gmail.com)
+
 
 
 
