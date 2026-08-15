@@ -10,8 +10,8 @@
 
 ## About Me
 
--  Computer Science (UENF)
--  Electronics Technician
+-  Computer Science(UENF)
+-  Electronics(IFF)
 -  Learning Software Engineering
 
 <!--
